@@ -405,30 +405,6 @@
 /televisioncolombianaenvivo/
 /canalescolombianosonline/
 
-! ======= PUBLICIDAD Y RASTREADORES =======
-/sh\.st/
-/adf\.ly/
-/shorte\.st/
-/bc\.vc/
-/linkshrink\.net/
-/ouo\.io/
-/shortest\.link/
-/pubiza\./
-/popads\./
-/popcash\./
-/propellerads\./
-/trafficjunky\./
-/exoclick\./
-/adsterra\./
-/popunder\./
-/zeroredirect\./
-/clickadu\./
-/adcash\./
-/mgid\./
-/whos\.amung\.us/
-/statcounter\./
-/histats\./
-/adnetworkperformance\./ 
 
 ! ======= DETECTORES DE ADBLOCK =======
 /adblock-detect\./
