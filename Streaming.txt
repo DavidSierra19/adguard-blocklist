@@ -306,6 +306,115 @@
 /extmatrix/  
 /flexydrive/  
 
+! ======= DETECTORES DE ADBLOCK =======
+/adblock-detect/
+/anti-adblock/
+/deadblock/
+/blockadblock/
+/antiblockerscript/
+/adblockdetector/
+/antiadblockguard/
+/adblockanalytics/
+/stopanalytics/
+/deadblocker/
+/adblockchecker/
+/blockdetector/
+
+! ======= CONTENIDO COLOMBIANO =======
+! Programas y Reality Shows
+/caracoltv/
+/caracolplay/
+/rcn/
+/canalrcn/
+/canal1/
+/citytvplay/
+/señalcolombia/
+/canaluno/
+/realityscolombia/
+/masterchefcolombia/
+/desafio/
+/lavozkids/
+/yomellamocolombia/
+/laagenciaco/
+/lafincade/
+/guerreroscolombia/
+/survivorcolombia/
+/masterchefcelebrity/
+/eldesafiothebox/
+
+! Novelas Colombianas
+/novelascolombianas/
+/pasionnovelas/
+/novelasycuentos/
+/novelasgratiscolombia/
+/colombianovelas/
+/vernovelascolombianas/
+/novelascompletas/
+/telenovelasweb/
+/telenovelashd/
+/novelasdetv/
+/novelasonline/
+
+! Canales Regionales
+/teleantioquia/
+/telecaribe/
+/telepacífico/
+/canaltro/
+/teleislas/
+/Canal13colombia/
+/telemedellin/
+/telecafe/
+
+! Deportes Colombianos
+/winsports/
+/winsportsmas/
+/futbolcolombiano/
+/https://vix.com/
+/golcaracol/
+/vix/
+/deportesrcn/
+/ascensowin/
+/ligabetplayenvivo/
+/fpcenvivo/
+/copacolombiaenvivo/
+
+! Noticias y Programas Informativos
+/noticiascaracol/
+/noticiasrcn/
+/noticias1/
+/cablenoticias/
+/redmasnoticiasco/
+/colombianoticias/
+/citynoticias/
+/noticiasuno/
+
+! Agregadores de Contenido Colombiano
+/colombiaenvivo/
+/tvcolombiaenvivo/
+/canalescolombianos/
+/tvcolombiana/
+/televisoncolombia/
+/tvenvivoco/
+/colombiatv/
+/vertvcolombiana/
+/gratistodo/
+/vercanalescolombianosenvivo/
+/tvcolombiaonline/
+/televisioncolombianaenvivo/
+/canalescolombianosonline/
+
+! Variantes con Wildcard para Contenido Colombiano
+/*-colombia-tv/
+/*-novelas-colombianas/
+/*-realities-colombianos/
+/ver-*-colombia/
+/*-programas-colombianos/
+/*-television-colombiana/
+/*-tv-colombia/
+/*-canal-colombia/
+/colombia-*-online/
+/*-envivo-colombia/
+
 
 ! ======= PUBLICIDAD Y RASTREADORES =======
 /sh\.st/
