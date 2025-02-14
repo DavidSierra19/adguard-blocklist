@@ -98,6 +98,8 @@
 
 ! ======= DEPORTES STREAMING =======
 ! Fútbol y deportes generales
+/futbolhoy/
+/futbolhoy.live/
 /rojadirecta/  
 /pirlotv/  
 /futbollibre/  
