@@ -1,0 +1,217 @@
+! Title: Lista Optimizada para AdGuard
+! Description: Lista de bloqueo para streaming y contenido no oficial
+! Last modified: 2024-02-14
+! Expires: 1 day
+
+! === STREAMING GENERAL ===
+*.cuevana.*
+*.pelisplus.*
+*.repelis.*
+https://cuevana.pro/*
+https://cuevana3.io/*
+https://pelisplus.icu/*
+https://repelis.io/*
+https://gnula.nu/*
+https://pelispedia.one/*
+https://pelis24.live/*
+https://cinecalidad.cat/*
+https://cinecalidad.run/*
+https://pelismart.com/*
+https://pelisgratishd.nu/*
+https://pordede.com/*
+https://playdede.nu/*
+https://pelishouse.me/*
+https://pelisflix.ones/*
+
+! === DEPORTES ===
+https://rojadirecta.watch/*
+https://pirlotv.fr/*
+https://futbollibre.net/*
+https://television-libre.online/*
+https://livesport.ws/*
+https://stream2watch.sx/*
+https://streameast.to/*
+https://sportsurge.net/*
+https://vipbox.lc/*
+https://livetv.sx/*
+https://firstrowsports.eu/*
+https://hesgoal.tv/*
+https://vipleague.st/*
+https://footybite.cc/*
+
+! === CONTENIDO COLOMBIANO ===
+https://www.caracoltv.com/*
+https://www.caracolplay.com/*
+https://www.canalrcn.com/*
+https://www.canal1.com.co/*
+https://www.citytv.com.co/*
+https://www.senalcolombia.tv/*
+https://www.winsports.co/*
+https://www.winsportsmas.co/*
+https://vix.com/*
+https://www.golcaracol.com/*
+https://www.teleantioquia.co/*
+https://www.telecaribe.co/*
+https://www.telepacifico.com/*
+https://www.canaltro.com/*
+https://www.teleislas.com.co/*
+https://canal13colombia.com/*
+https://www.telemedellin.tv/*
+https://www.telecafe.co/*
+
+! === SERVIDORES DE VIDEO ===
+https://vidoza.net/*
+https://streamtape.com/*
+https://cloudvideo.tv/*
+https://streamable.com/*
+https://mixdrop.co/*
+https://upstream.to/*
+https://videobin.co/*
+https://streamium.xyz/*
+https://videomega.tv/*
+https://powvideo.net/*
+https://streamwish.to/*
+https://streamplay.to/*
+https://vidlox.me/*
+https://vidcloud.co/*
+https://vev.io/*
+https://vidfast.co/*
+https://openload.co/*
+https://rapidvideo.com/*
+
+! === PUBLICIDAD ===
+https://sh.st/*
+https://adf.ly/*
+https://shorte.st/*
+https://bc.vc/*
+https://linkshrink.net/*
+https://ouo.io/*
+https://shortest.link/*
+https://pubiza.com/*
+https://popads.net/*
+https://popcash.net/*
+
+! === DOMINIOS COMUNES ===
+*.stream.*
+*.online.*
+*.watch.*
+*.live.*
+*.tv.*
+*.to.*
+*.me.*
+*.sx.*
+*.ws.*
+*.nu.*
+*.io.*
+*.net/*streaming*
+*.com/*watch*
+*.tv/*live*
+
+! Title: Lista Optimizada para AdGuard
+! Description: Lista de bloqueo para streaming y contenido no oficial
+! Last modified: 2024-02-14
+! Expires: 1 day
+
+! === STREAMING GENERAL ===
+*.cuevana.*
+*.pelisplus.*
+*.repelis.*
+cuevana.pro/*
+cuevana3.io/*
+pelisplus.icu/*
+repelis.io/*
+gnula.nu/*
+pelispedia.one/*
+pelis24.live/*
+cinecalidad.cat/*
+cinecalidad.run/*
+pelismart.com/*
+pelisgratishd.nu/*
+pordede.com/*
+playdede.nu/*
+pelishouse.me/*
+pelisflix.ones/*
+
+! === DEPORTES ===
+rojadirecta.watch/*
+pirlotv.fr/*
+futbollibre.net/*
+television-libre.online/*
+livesport.ws/*
+stream2watch.sx/*
+streameast.to/*
+sportsurge.net/*
+vipbox.lc/*
+livetv.sx/*
+firstrowsports.eu/*
+hesgoal.tv/*
+vipleague.st/*
+footybite.cc/*
+
+! === CONTENIDO COLOMBIANO ===
+www.caracoltv.com/*
+www.caracolplay.com/*
+www.canalrcn.com/*
+www.canal1.com.co/*
+www.citytv.com.co/*
+www.senalcolombia.tv/*
+www.winsports.co/*
+www.winsportsmas.co/*
+vix.com/*
+www.golcaracol.com/*
+www.teleantioquia.co/*
+www.telecaribe.co/*
+www.telepacifico.com/*
+www.canaltro.com/*
+www.teleislas.com.co/*
+canal13colombia.com/*
+www.telemedellin.tv/*
+www.telecafe.co/*
+
+! === SERVIDORES DE VIDEO ===
+vidoza.net/*
+streamtape.com/*
+cloudvideo.tv/*
+streamable.com/*
+mixdrop.co/*
+upstream.to/*
+videobin.co/*
+streamium.xyz/*
+videomega.tv/*
+powvideo.net/*
+streamwish.to/*
+streamplay.to/*
+vidlox.me/*
+vidcloud.co/*
+vev.io/*
+vidfast.co/*
+openload.co/*
+rapidvideo.com/*
+
+! === PUBLICIDAD ===
+sh.st/*
+adf.ly/*
+shorte.st/*
+bc.vc/*
+linkshrink.net/*
+ouo.io/*
+shortest.link/*
+pubiza.com/*
+popads.net/*
+popcash.net/*
+
+! === DOMINIOS COMUNES ===
+*.stream.*
+*.online.*
+*.watch.*
+*.live.*
+*.tv.*
+*.to.*
+*.me.*
+*.sx.*
+*.ws.*
+*.nu.*
+*.io.*
+*.net/*streaming*
+*.com/*watch*
+*.tv/*live*
