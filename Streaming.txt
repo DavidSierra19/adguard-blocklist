@@ -5,9 +5,9 @@
 
 ! ======= STREAMING GENERAL =======
 ! Sitios principales
-/cuevana\./
-/pelisplus\./
-/repelis\./
+/cuevana/
+/pelisplus/
+/repelis/
 /gnula\./
 /pelispedia\./
 /pelis24\./
@@ -98,8 +98,8 @@
 
 ! ======= DEPORTES STREAMING =======
 ! Fútbol y deportes generales
-/rojadirecta\./
-/pirlotv\./
+/rojadirecta/
+/pirlotv/
 /futbollibre\./
 /television-libre\./
 /livesport\./
