@@ -746,3 +746,97 @@
 /filefactory.*/$important  
 /extmatrix.*/$important  
 /flexydrive.*/$important  
+! ======= CONTENIDO COLOMBIANO =======
+! Programas y Reality Shows
+/caracoltv*/$important 
+/caracolplay*/$important 
+/rcn*/$important 
+/canalrcn*/$important 
+/canal1*/$important 
+/citytvplay*/$important 
+/señalcolombia*/$important 
+/canaluno*/$important 
+/realityscolombia*/$important 
+/masterchefcolombia*/$important 
+/desafio*/$important 
+/lavozkids*/$important 
+/yomellamocolombia*/$important 
+/laagenciaco*/$important 
+/lafincade*/$important 
+/guerreroscolombia*/$important 
+/survivorcolombia*/$important 
+/masterchefcelebrity*/$important 
+/eldesafiothebox*/$important 
+
+! Novelas Colombianas
+/novelascolombianas*/$important 
+/pasionnovelas*/$important 
+/novelasycuentos*/$important 
+/novelasgratiscolombia*/$important 
+/colombianovelas*/$important 
+/vernovelascolombianas*/$important 
+/novelascompletas*/$important 
+/telenovelasweb*/$important 
+/telenovelashd*/$important 
+/novelasdetv*/$important 
+/novelasonline*/$important 
+
+! Canales Regionales
+/teleantioquia*/$important 
+/telecaribe*/$important 
+/telepacífico*/$important 
+/canaltro*/$important 
+/teleislas*/$important 
+/Canal13colombia*/$important 
+/telemedellin*/$important 
+/telecafe*/$important 
+
+! Deportes Colombianos
+/winsports*/$important 
+/winsportsmas*/$important 
+/futbolcolombiano*/$important 
+/https://vix.com/
+/golcaracol*/$important 
+/vix*/$important 
+/deportesrcn*/$important 
+/ascensowin*/$important 
+/ligabetplayenvivo*/$important 
+/fpcenvivo*/$important 
+/copacolombiaenvivo*/$important 
+
+! Noticias y Programas Informativos
+/noticiascaracol*/$important 
+/noticiasrcn*/$important 
+/noticias1*/$important 
+/cablenoticias*/$important 
+/redmasnoticiasco*/$important 
+/colombianoticias*/$important 
+/citynoticias*/$important 
+/noticiasuno*/$important 
+
+! Agregadores de Contenido Colombiano
+/colombiaenvivo*/$important 
+/tvcolombiaenvivo*/$important 
+/canalescolombianos*/$important 
+/tvcolombiana*/$important 
+/televisoncolombia*/$important 
+/tvenvivoco*/$important 
+/colombiatv*/$important 
+/vertvcolombiana*/$important 
+/gratistodo*/$important 
+/vercanalescolombianosenvivo*/$important 
+/tvcolombiaonline*/$important 
+/televisioncolombianaenvivo*/$important 
+/canalescolombianosonline*/$important 
+
+! Variantes con Wildcard para Contenido Colombiano
+/colombia-tv/
+/novelas-colombianas/
+/realities-colombianos/
+/colombia/
+/programas-colombianos/
+/television-colombiana/
+/tv-colombia/
+/canal-colombia/
+/colombia-*-online/
+/envivo-colombia/
