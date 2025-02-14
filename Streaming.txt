@@ -349,7 +349,6 @@
 /pasionnovelas/
 /novelasycuentos/
 /novelasgratiscolombia/
-/colombianovelas/
 /vernovelascolombianas/
 /novelascompletas/
 /telenovelasweb/
@@ -386,18 +385,15 @@
 /noticias1/
 /cablenoticias/
 /redmasnoticiasco/
-/colombianoticias/
 /citynoticias/
 /noticiasuno/
 
 ! Agregadores de Contenido Colombiano
-/colombiaenvivo/
 /tvcolombiaenvivo/
 /canalescolombianos/
 /tvcolombiana/
 /televisoncolombia/
 /tvenvivoco/
-/colombiatv/
 /vertvcolombiana/
 /gratistodo/
 /vercanalescolombianosenvivo/
@@ -769,7 +765,6 @@
 /colombia-tv/
 /novelas-colombianas/
 /realities-colombianos/
-/colombia/
 /programas-colombianos/
 /television-colombiana/
 /tv-colombia/
