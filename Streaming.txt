@@ -405,19 +405,6 @@
 /televisioncolombianaenvivo/
 /canalescolombianosonline/
 
-! Variantes con Wildcard para Contenido Colombiano
-/*-colombia-tv/
-/*-novelas-colombianas/
-/*-realities-colombianos/
-/ver-*-colombia/
-/*-programas-colombianos/
-/*-television-colombiana/
-/*-tv-colombia/
-/*-canal-colombia/
-/colombia-*-online/
-/*-envivo-colombia/
-
-
 ! ======= PUBLICIDAD Y RASTREADORES =======
 /sh\.st/
 /adf\.ly/
