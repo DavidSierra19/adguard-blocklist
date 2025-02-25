@@ -186,6 +186,7 @@
 /worldfree4u/  
 /movierulz/ 
 /ydray/
+/ydray/
 
 ! ======= SERVIDORES DE VIDEO =======
 /vidoza/  
