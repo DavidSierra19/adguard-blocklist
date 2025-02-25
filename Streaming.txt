@@ -189,7 +189,9 @@
 /ydray/
 
 ! ======= SERVIDORES DE VIDEO =======
-/vidoza/  
+/vidoza/
+/ydray/
+/ydray/
 /streamtape/  
 /cloudvideo/  
 /streamable/  
