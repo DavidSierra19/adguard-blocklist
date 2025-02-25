@@ -184,7 +184,8 @@
 /torrentrapid/  
 /tamilrockers/  
 /worldfree4u/  
-/movierulz/  
+/movierulz/ 
+/ydray/
 
 ! ======= SERVIDORES DE VIDEO =======
 /vidoza/  
