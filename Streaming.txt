@@ -856,8 +856,6 @@
 /bigfishgames/
 
 ! Plataformas de juegos en la nube
-/xbox/
-/xboxcloudgaming/
 /play.geforcenow/
 /stadia.google/
 /luna.amazon/
