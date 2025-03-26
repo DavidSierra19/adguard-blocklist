@@ -36,3 +36,4 @@
 @@||mqxbyqkj.r.us-east-1.awstrack.me^$important
 @@||aprodmovistarcomsa.z13.web.core.windows.net^$important
 @@||storeedgefd.dsx.mp.microsoft.com^$client=192.168.12.27
+@@||storeedgefd.dsx.mp.microsoft.com^$client=192.168.12.22
