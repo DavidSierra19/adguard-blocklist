@@ -37,3 +37,7 @@
 @@||aprodmovistarcomsa.z13.web.core.windows.net^$important
 @@||storeedgefd.dsx.mp.microsoft.com^$client=192.168.12.27
 @@||storeedgefd.dsx.mp.microsoft.com^$client=192.168.12.22
+youtube-nocookie.com
+i.ytimg.com
+s.ytimg.com
+yt3.ggpht.com
