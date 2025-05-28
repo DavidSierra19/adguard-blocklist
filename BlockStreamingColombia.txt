@@ -41,3 +41,7 @@ youtube-nocookie.com
 i.ytimg.com
 s.ytimg.com
 yt3.ggpht.com
+img.youtube.com
+@@||img.youtube.com^$important
+youtu.be
+
