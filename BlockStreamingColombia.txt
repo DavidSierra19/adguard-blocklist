@@ -45,4 +45,19 @@ img.youtube.com
 @@||img.youtube.com^$important
 youtu.be
 @@||googlevideo.com^$important
+@@||github.io^$important
+@@||draw.io^$important
+@@||app.diagrams.net^$important
+@@||socket.io^$important
+@@||replit.io^$important
+@@||codesandbox.io^$important
+@@||vitest.io^$important
+@@||vitejs.dev^$important
+@@||threejs.io^$important
+@@||notionforms.io^$important
+@@||observablehq.com^$important
+@@||postman.io^$important
+@@||postman-echo.com^$important
+@@||web.dev^$important
+@@||cloudflareworkers.io^$important
 
