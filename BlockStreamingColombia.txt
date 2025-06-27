@@ -47,6 +47,7 @@ youtu.be
 @@||googlevideo.com^$important
 @@||github.io^$important
 @@||draw.io^$important
+@@||drawio^$important
 @@||app.diagrams.net^$important
 @@||socket.io^$important
 @@||replit.io^$important
